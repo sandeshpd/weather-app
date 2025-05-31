@@ -30,4 +30,4 @@ This app is not yet live. Therefore, I you want to see how this app looks or wor
 5. Copy the `http://localhost/5173` local server address in the browser search bar.
 
 ## Issues:
-If you ran into any issues, I'm always open to discuss them and solve them as I love to keep learning new things. Please open issues on [Issues](Issues) tab.
+If you ran into any issues, I'm always open to discuss them and solve them as I love to keep learning new things. Please open issues on [Issues](https://github.com/sandeshpd/weather-app/issues) tab.
