@@ -4,7 +4,7 @@ This is the simple weather app made with React. I made this because I wanted to 
 
 The user just have to enter the city name to see weather.
 
-I used **Open Weather Map** to generate new API and integrate into my app. Many thanks to them. I recommend you to do the same. Head over to [Open Weather Map](openweathermap.org) to generate your own API key.
+I used **Open Weather Map** to generate new API and integrate into my app. Many thanks to them. I recommend you to do the same. Head over to [Open Weather Map](https://openweathermap.org) to generate your own API key.
 
 _Remember to keep your API key secure and private and follow best practices to do it._
 
